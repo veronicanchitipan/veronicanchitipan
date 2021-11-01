@@ -3,7 +3,7 @@
 <!--
 Actualmente estamos mirando los siguientes temas:
 
-![Tux, the Linux mascot]((C:\Users\beero\OneDrive\Escritorio\imágenes/tux.png)
+![Tux, the Linux mascot](C:\Users\beero\OneDrive\Escritorio\imágenes/tux.png)
 
 ¡[Sistemas Informáticos!](C:\Users\beero\OneDrive\Escritorio\imágenes.png "Máquinas virtuales")
 
