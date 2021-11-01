@@ -5,7 +5,9 @@ Actualmente estamos mirando los siguientes temas:
 
 
 
-[¡Sistemas Informáticos](C:\Users\beero\OneDrive\Escritorio\imágenes.jpg "Máquinas virtuales")!]
+¡[Sistemas Informáticos!](C:\Users\beero\OneDrive\Escritorio\imágenes.jpg "Máquinas virtuales"
+
+
 **veronicanchitipan/veronicanchitipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
