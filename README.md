@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ..! Soy verónica, estoy en 1ro. DAM. Me gustan los retos y el aprendizaje continuo, creo en la educación puesto que es la base para ser mejor persona y mejores profesionales. Estoy realizando este FP, puesto que me gustaría especializarme en Ciberseguridad, y dirigir mis conocimientos hacia la vulnerabilidad en las redes.   👋
 
 <!--
 **veronicanchitipan/veronicanchitipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
