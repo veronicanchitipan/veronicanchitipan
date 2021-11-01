@@ -2,22 +2,10 @@
 
 
 
-![Tux, the Linux mascot]
-
-(C:\imágenes/tux.png)
-
-
 
 <!--
 
-
-
-
-Actualmente estamos mirando los siguientes temas:
-
-
- 
-
+![(C:\imagenes\imagesjava\Archivo JPG (.jpg))
 
 
 **veronicanchitipan/veronicanchitipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
