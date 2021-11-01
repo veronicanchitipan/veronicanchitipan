@@ -3,9 +3,9 @@
 <!--
 Actualmente estamos mirando los siguientes temas:
 
+![Tux, the Linux mascot](/assets/images/tux.png)
 
-
-¡[Sistemas Informáticos!](C:\Users\beero\OneDrive\Escritorio\imágenes.png "Máquinas virtuales"
+¡[Sistemas Informáticos!](C:\Users\beero\OneDrive\Escritorio\imágenes.png "Máquinas virtuales")
 
 
 **veronicanchitipan/veronicanchitipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
